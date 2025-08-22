@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **DevOps & AI/ML**
 
-- 👨‍💻 All of my projects are available at [Aksh's Portfolio](https://akshraj.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://akshraj.vercel.app/)
 
 - 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **live.akshatraj@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17HwpaXvEluoUVVYiB3ZwhYPevEQ266pU/view?usp=sharing](https://drive.google.com/file/d/17HwpaXvEluoUVVYiB3ZwhYPevEQ266pU/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17HwpaXvEluoUVVYiB3ZwhYPevEQ266pU/view?usp=sharing)
 
 - ⚡ Fun fact **i like Poker but hate Gambling**
 
