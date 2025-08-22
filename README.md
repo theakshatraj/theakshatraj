@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps & AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://akshraj.vercel.app/](https://akshraj.vercel.app/)
+- 👨‍💻 All of my projects are available at [Akshat Raj - Portfolio](https://akshraj.vercel.app/)
 
 - 💬 Ask me about **Full Stack Development**
 
